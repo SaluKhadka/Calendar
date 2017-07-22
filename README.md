@@ -1,0 +1,1 @@
+This is an application developed during my internship. This application provides calender view in both BS and AD mode with various event associated with them.
